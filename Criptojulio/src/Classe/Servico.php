@@ -10,7 +10,7 @@ namespace Cripto\Classe;
 
 class Servico
 {
-    const TOKEN = "b0f87e78223386ff7229b88cc608d7a5ed2784f0";
+    const TOKEN = "";
     protected $url;
     protected $data;
 
